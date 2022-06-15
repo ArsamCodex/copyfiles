@@ -2,6 +2,7 @@ import os
 from shutil import move
 from pathlib import Path
 
+#Windows format
 dir = "C:\\fileTransform"
 
 
@@ -21,5 +22,5 @@ def start():
             print(error)
 
 
-
-start()
+if __name__ == '__main__':
+    start()
