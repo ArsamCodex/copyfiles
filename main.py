@@ -3,11 +3,13 @@ from shutil import move
 from pathlib import Path
 
 #Change format of path for linux
-dir = "/home/arstech/Downloads/file"
+#dir = "/home/arstech/Downloads/file"
 
 #Windows format
 dir = "C:\\fileTransform"
 
+#Any problem to get Directiry use this line
+#dir = os.getcwd()
 
 def start():
     a = os.listdir(dir)
