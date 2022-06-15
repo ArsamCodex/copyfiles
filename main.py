@@ -2,6 +2,9 @@ import os
 from shutil import move
 from pathlib import Path
 
+#Change format of path for linux
+dir = "/home/arstech/Downloads/file"
+
 #Windows format
 dir = "C:\\fileTransform"
 
