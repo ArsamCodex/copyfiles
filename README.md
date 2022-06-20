@@ -2,6 +2,10 @@
 Opdracht @da
 Author ~ArMin~ 
 
+Its going to scan a path read files for each file there makes a directory whit the same name whitout extention , and if that file is .pdf move it to own directory.
+
+https://www.youtube.com/watch?v=_J63wdaLWBc&t=1075s
+
 
 ![1](https://user-images.githubusercontent.com/62879887/174567336-00d3e5f1-27c0-434a-b144-e48031bed12f.png)
 
